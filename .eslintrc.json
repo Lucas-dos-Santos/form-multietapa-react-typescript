@@ -16,7 +16,9 @@
       "react/jsx-uses-react": "off",
       "react/react-in-jsx-scope": "off",
       "react/self-closing-comp": "warn",
-      "react/jsx-filename-extension": "off"
+      "react/jsx-filename-extension": "off",
+      "@typescript-eslint/explicit-module-boundary-types": "off",
+      "@typescript-eslint/no-explicit-any": "off"
     },
     "plugins": [
         "react", 
